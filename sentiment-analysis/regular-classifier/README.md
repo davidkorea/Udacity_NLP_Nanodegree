@@ -1,0 +1,1 @@
+# Sentiment analysis using a BoW features naive bayes-classifier
